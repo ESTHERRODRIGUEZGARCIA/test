@@ -1,5 +1,6 @@
+repet = int(input("Bienvenido \nIntroduzca el número de veces que desee hacer los ejercicios. "))
 
-while True:
+for i in range(repet):
     
     variable = int(input("Seleccione que ejercicio desea ejecutar(1-3): "))
     if variable == 1:
