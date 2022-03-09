@@ -12,6 +12,6 @@ def ejercicio3():
 					arr[j] = arr[j-gap]
 					j -= gap
 				arr[j] = temp
-			gap //= 2
+			gap = n//2
 
 	arr = []
