@@ -8,4 +8,10 @@ def ejercicio3():
 			for i in range(gap,n):
                 temp = arr[i]
                 j = i
-                
+                while j >= gap and arr[j-gap] >temp:
+					arr[j] = arr[j-gap]
+					j -= gap
+				arr[j] = temp
+			gap //= 2
+
+	arr = []
