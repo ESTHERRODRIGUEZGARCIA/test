@@ -114,7 +114,7 @@ def ejercicio3():
 	print(arr)
 ````
 
-No sé hacer el diagrama de flujo porque no me funciona el código.
+* No me funciona el código.
 
 
 
