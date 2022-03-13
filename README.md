@@ -36,4 +36,9 @@ def ejercicio1():
     print(r)
 
 ejercicio1()
+
 ´´´´
+El diagrama de flujo:
+
+![image](https://user-images.githubusercontent.com/91721860/158073889-99804dd5-ce09-4c78-a6af-2a8b94b956e5.png)
+
