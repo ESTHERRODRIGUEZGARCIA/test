@@ -2,7 +2,7 @@
 from random import randint as rd
 
 def ejercicio3():
-    shellSort(arr)
+    from Clases import shellShort
 
 	while True:
 		try:
