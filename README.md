@@ -1,5 +1,5 @@
 # Ejercicios de Ordenar
-En este repositorio se encuentran resueltos los ejercicios 1, 2 y 3 
+En este repositorio se encuentran resueltos 3 ejercicios de ordenación de distintas maneras. 
 
 La dirección: https://github.com/ESTHERRODRIGUEZGARCIA/test.git
 
