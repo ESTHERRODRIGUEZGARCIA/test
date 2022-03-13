@@ -15,3 +15,5 @@ def ejercicio1():
         r.append(min(arr))
         arr.remove(min(arr))
     print(r)
+
+ejercicio1()
