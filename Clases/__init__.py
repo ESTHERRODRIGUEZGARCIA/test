@@ -2,8 +2,6 @@
 
 
 
-from shellShort import(
-    shellSort
-)
+from shellShort import shellSort
 
 from ordlista import ord

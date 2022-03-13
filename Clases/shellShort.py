@@ -1,4 +1,5 @@
 def shellSort(arr):
+	arr = []
 		n = len(arr)
 		gap = n//2
         while gap > 0:
@@ -10,7 +11,5 @@ def shellSort(arr):
 					j -= gap
 				arr[j] = temp
 			gap = n//2
-
-	arr = []
 
 return(arr)
