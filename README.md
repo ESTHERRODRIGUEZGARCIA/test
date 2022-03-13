@@ -37,8 +37,9 @@ def ejercicio1():
 
 ejercicio1()
 
-´´´´
+````
+
 El diagrama de flujo:
 
-![image](https://user-images.githubusercontent.com/91721860/158073889-99804dd5-ce09-4c78-a6af-2a8b94b956e5.png)
+![image](https://user-images.githubusercontent.com/91721860/158073913-fc8cb893-c901-4b0a-be69-41a1c8c0f7f2.png)
 
