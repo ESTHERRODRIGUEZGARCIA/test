@@ -13,10 +13,10 @@ def ejercicio2():
     lista = [["a", "d"], ["d", "b"] ,["b", "f"], ["f", "e"] ,["e", "c"]]
     ordenada = []
 
-    from Clases import ordlista
+    from Clases import ord
 
     ordenada = list(dict.fromkeys(ordenada))
 
     print(ordenada)
-    
+
 ejercicio2()
