@@ -1,4 +1,4 @@
-
+lista = [["a", "d"], ["d", "b"], ["b", "f"],["f", "e"],["e", "c"]]
 def ord(lista):
     tareas = {
     "a": 2,
@@ -7,8 +7,8 @@ def ord(lista):
     "d": 8,
     "e": 13,
     "f": 3
-}
-    lista = [["a", "d"], ["d", "b"], ["b", "f"],["f", "e"],["e", "c"]]
+    }
+    
     ordenada = []
     for i in lista:
         if tareas[i[0]] < tareas[i[1]]:
