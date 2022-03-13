@@ -1,13 +1,12 @@
-
 def ejercicio2():
 
     tareas = {
-        "a": 2,
-        "b": 1,
-        "c": 7,
-        "d": 8,
-        "e": 13,
-        "f": 3
+        "fregar": 2,
+        "cocinar": 1,
+        "poner la lavadora": 7,
+        "aspirar": 8,
+        "limpiar los baños": 13,
+        "recoger": 3
     }
 
 
@@ -16,7 +15,8 @@ def ejercicio2():
 
     from Clases import ordlista
 
-
     ordenada = list(dict.fromkeys(ordenada))
 
     print(ordenada)
+    
+ejercicio2()
