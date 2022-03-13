@@ -76,6 +76,7 @@ ejercicio2()
 
 ````
 Diagrama de flujo:
+
 ![image](https://user-images.githubusercontent.com/91721860/158074752-444e1321-cb32-42b1-afda-656d0225d419.png)
 
 
@@ -113,7 +114,7 @@ def ejercicio3():
 	print(arr)
 ````
 
-
+No sé hacer el diagrama de flujo porque no me funciona el código.
 
 
 
